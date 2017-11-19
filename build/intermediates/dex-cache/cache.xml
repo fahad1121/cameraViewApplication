@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/abf4c731b39c3869495c4d53e1d9db44f6d9b596/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_301261c225b6ea1d8116f6f10ee5f60bf054f007.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/f5054099783eb4764576006928a0565cd7da7027/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_45be377d5909d9eab7008cdac0eda5fd47ddd76b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/9797c0741cb18ae7cd2ea883b4b8a6a6bcfb3d60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_adf00d1e6d950fd99e82d105a9c3c401253543d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/7c09455152e1ffeb99a98ce1c7a6b915dff2a6b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_f958e851aea0abec4d69d68745fee0bf44fca274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/common-1.0.0_cfd4eb3c23ef124dd20b241359577d528c2396b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/8a355ef579f3c65897e05e41e655f943cdf016ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_000f73827bb87aa5bf3386b38d02d916a76dd9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/common-1.0.0_0cab65ca0de262afb7f82b578fade514d2827f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_738c3b01cf8a1a04d4403624146a8fed4a5c5d3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/e8ff0903928b58c2e062bcca6a2c998a286d8ffa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1a10332e561dbad9fd003560979e6202383d0d2c">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_e248f2bcabec7c51662e3cb0d498680f2c787ebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/25d42d51bd3b375570c0ca51c80cf497723334bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_14d0e6a72415c11ad5df65d9c81f18d860c34387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/ddb176a0b9228e3919bdc75f9c0001e7ae9d94bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_38037c29fa486af20aeb492a6696ca1a26825b3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/8bb96c4498eafeb10348a115d63d9179f5fda7ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_13b1724dbaa30bdcf55d1503cc7a0bbddf1ad50a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/8362029d88e47a0963f124acecc950401f6b3331/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_d4595f1e6fe9f4d069617edf0ed6b6cf297edeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/092fdbd9d9491859ab4a35f2ea1d20f4b60fb607/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_0c604122f92289af5abff742a1f6e052ad7dd630.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/4425a654e6ec643bbb01df6dadb4c7cc7a216bf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_606563a9c80d650a85f31beac85b85b6605fa322.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/b9cebb6d1f73e7f3fecd1c4543e780609671478f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_bc03d9aae0cf042b728c3d2bda4aeea58f9d22a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/AndroidStudioProjects/CameraView/cameraview/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="873ed42e9772086f536a12cd621efd278ae92982">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_f0b9df2195f2f4245640ec3c447da7b838db9b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/fahad/.android/build-cache/16b782c09f0987eb7231baa8769453c29693a7ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/home/fahad/AndroidStudioProjects/CameraView/demo/build/intermediates/pre-dexed/debug/classes_e2b4dc5735078fc6d24375d90f08c99479303e29.jar" />
+    </item>
+
+</items>
